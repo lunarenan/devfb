@@ -1,3 +1,4 @@
 Evento: Git y Github
 Fecha: 28/01/2020
-Lugar: CHamba Coworking
+Lugar: Chamba Coworking
+Temperatura: 15 Grados
